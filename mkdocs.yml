@@ -3,31 +3,39 @@ pages:
 - 主页: "index.md"
 - 提问的智慧: "study/how2ask.md"
 - Python:
+  - Python: "python/python.md"
   - Tkinter: "python/tkinter.md"
   - Jieba: "python/jieba.md"
   - Virtualenv: "python/virtualenv.md"
   - Matplotlib: "python/matplotlib.md"
-- 其它:
-  - Angular1: "other/angular1.md"
-  - Angular2: "other/angular2.md"
-  - Atom: "other/atom.md"
-  - Elasticserach: "other/elasticserach.md"
-  - Elk: "other/elk.md"
-  - Gitlab: "other/gitlab.md"
-  - Hadoop: "other/hadoop.md"
-  - Hbase: "other/hbase.md"
-  - Java: "other/java.md"
-  - Jhispter: "other/jhispter.md"
-  - Mongodb: "other/mongodb.md"
-  - Mysql: "other/mysql.md"
-  - Nexus: "other/nexus.md"
+- Web:
+  - Angular1: "web/angular1.md"
+  - Angular2: "web/angular2.md"
+- XD:
+  - Elasticserach: "bigdata/elasticserach.md"
+  - Elk: "bigdata/elk.md"
+  - Hadoop: "bigdata/hadoop.md"
+  - Hbase: "bigdata/hbase.md"
+- Tool:
+  - Atom: "tool/atom.md"
+  - Gitlab: "tool/gitlab.md"
+  - Sdkman: "tool/sdkman.md"
+  - Svn: "tool/svn.md"
+  - Graphviz: "tool/graphviz.md"
+  - Nexus: "tool/nexus.md"
+- Java:
+  - Java: "java/java.md"
+  - Jhispter: "java/jhispter.md"
+
+- DB:
+  - Mongodb: "db/mongodb.md"
+  - Mysql: "db/mysql.md"
+  - Redis: "db/redis.md"
+
+- Other:
   - Nginx: "other/nginx.md"
-  - Python: "other/python.md"
-  - Redis: "other/redis.md"
-  - Sdkman: "other/sdkman.md"
-  - Svn: "other/svn.md"
   - Three: "other/three.md"
 
 
 - 关于: "about.md"
-theme: readthedocs
+#theme: readthedocs
