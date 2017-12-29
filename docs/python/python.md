@@ -1,43 +1,29 @@
 # python
+
+## jupyter
+
+用nbviewer和github结合看ipynb那叫一个爽啊 <https://nbviewer.jupyter.org/github/shikanon/MyPresentations/blob/master/DeepLearning/LearnOfDeepLearning.ipynb>
+
+nbviewer:`https://nbviewer.jupyter.org/`
+
+github/用户名/项目名:`github/shikanon/MyPresentations/`
+
+路径：`blob/master/DeepLearning/LearnOfDeepLearning.ipynb`
+
 ## 检测文件编码
+
 import chardet
 
-## 很好的blog
-码农场
-http://www.hankcs.com/
-我爱自然语言处理
-http://www.52nlp.cn/
+## 很好的nlp的blog
 
+码农场 <http://www.hankcs.com/>
 
-## ml
-【Python3 基础教程】 --> [av9359994](http://www.bilibili.com/video/av9359994)
-
-【Python3 数据处理】 --> [av9854463](http://www.bilibili.com/video/av9854463)
-
-【Python3 数据可视化】 --> [av9876152](http://www.bilibili.com/video/av9876152)
-
-【机器学习 TensorFlow教程】 --> [av10118932](http://www.bilibili.com/video/av10118932)
-
-【机器学习 Theano教程】 --> [av10182481](http://www.bilibili.com/video/av10182481)
-
-【机器学习 Keras教程】 --> [av10182621](http://www.bilibili.com/video/av10182621)
-
-【机器学习 SKLearn教程】--> [av10182847](http://www.bilibili.com/video/av10182847)
-
-Pandas
-http://www.bilibili.com/video/av6785636/
-Sklearn
-http://www.bilibili.com/video/av6922044/
-
-TensorFlow 开发者峰会 2017
-http://www.bilibili.com/video/av12508230/?from=search&seid=14417099001348142377
-
-实例讲解：不错，没有中文...
-youtubo网红Siraj Raval
-http://www.bilibili.com/video/av11939263/
+我爱自然语言处理 <http://www.52nlp.cn/>
 
 # pip
+
 ~/pip/pip.ini
+
 ```
 [global]
 index-url = http://pypi.doubanio.com/simple/

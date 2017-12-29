@@ -1,6 +1,6 @@
 # 换源
 
-npm install express --registry=https://registry.npm.taobao.org
+`npm install express --registry=https://registry.npm.taobao.org`
 Mark一下 原文国内优秀npm镜像推荐及使用
 
 npm
@@ -38,8 +38,3 @@ npm config get registry
 使用
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 // 使用cnpm install expresstall express
-
-作者：圣手小青龙
-链接：http://www.jianshu.com/p/0deb70e6f395
-來源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

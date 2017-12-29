@@ -15,6 +15,7 @@ index-url = https://mirrors.ustc.edu.cn/pypi/web/simple/
 pip install tensorflow-gpu
 
 ## tf.contrib
+一些高层方法，新版keras也在其中
 
 ## keras
 [keras中文文档](http://keras-cn.readthedocs.io/en/latest/)

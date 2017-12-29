@@ -15,3 +15,5 @@ matplotlib.rcParams['axes.unicode_minus']=False
 import pylab
 pylab.rcParams['figure.figsize'] = (15.0, 8.0)
 ```
+
+> 可以考虑使用live templates固定plt->...

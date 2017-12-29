@@ -1,6 +1,7 @@
-sdkman
+# sdkman
+程序管理工具，主要是java系列的
 
-Installation
+## Installation
 
 Installing SDKMAN! on UNIX-like platforms is as easy as ever. SDKMAN! installs smoothly on Mac OSX, Linux, Cygwin, Solaris and FreeBSD. We also support Bash and ZSH shells.
 Simply open a new terminal and enter:

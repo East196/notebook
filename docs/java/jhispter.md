@@ -1,7 +1,9 @@
 # jhispter
-springboot angular
 
+springboot + angular
 
 # install
-npm i yarn -g
-yarn global add generator-jhipster
+
+`npm i yarn -g`
+
+`yarn global add generator-jhipster`

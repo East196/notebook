@@ -22,3 +22,4 @@ add
 ```
 theme: readthedocs
 ```
+但是这个notebook用默认就好，个人感觉readthedocs比较适合技术文档

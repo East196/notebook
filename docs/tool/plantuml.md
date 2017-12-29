@@ -27,21 +27,4 @@ database "MySql" {
 [Another Component] --> [Example 1]
 [Example 1] --> [Folder 3]
 [Folder 3] --> [Frame 4]
-
-
-```
-
-
-```ditaa
-
-+--------+   +-------+    +-------+
-|        +---+ ditaa +--> |       |
-|  Text  |   +-------+    |diagram|
-|Document|   |!magic!|    |       |
-|     {d}|   |       |    |       |
-+---+----+   +-------+    +-------+
-	:                         ^
-	|       Lots of work      |
-	+-------------------------+
-
 ```
