@@ -1,6 +1,15 @@
-# markdown-preview-enhanced
+<!-- ---
+export_on_save:
+  markdown: true
+--- -->
 
-markdown插件，用于atom和vscode <https://github.com/shd101wyy/markdown-preview-enhanced>
+# [markdown-preview-enhanced](<https://github.com/shd101wyy/markdown-preview-enhanced>)
+
+强大的markdown插件
+
+可用于atom和vscode
+
+
 
 ## 文字
 
@@ -11,7 +20,6 @@ $ y=sin(x)/S^2 $
 ```python {cmd=true}
 
 # coding:utf-8
-
 print "ab"
 
 ````
@@ -37,11 +45,36 @@ plt.show() # show figure
     |       Lots of work      |
     +-------------------------+
 ````
+## 甘特图
+```mermaid
+gantt
+  dateFormat　YYYY-MM-DD
+  title Adding GANTT diagram functionality to mermaid
+
+  section A section
+　Completed task　　   :done, des1, 2014-01-06,2014-01-08
+　Active task 　　　　   :active, des2, 2014-01-09, 3d
+　future task 　　　　  :　　　  des3, after des2, 5d
+　future task2         :　　　  des4, after des3, 5d
+
+　section Critical tasks
+　Completed task in the critical line　:crit, done, 2014-01-06,24h
+　Implement parser and json　　　　　　:crit, done, after des1, 2d
+　　　Create tests for parser　　　　　　　:crit, active, 3d
+　　　Future task in critical line　　　　　:crit, 5d
+　　　Create tests for renderer　　　　　　:2d
+　　　Add to ,mermaid　　　　　　　　　　　:1d
+```
+
 
 ## 手写序列图，中文并没有手写...
 
-```sequence { theme = "hand"} Title: Here is a title A->B: Normal line B-->C: Dashed line C->>D: Open arrow D-->>A: Dashed open arrow
-
+```sequence { theme = "hand"}
+Title: Here is a title
+A->B: Normal line
+B-->C: Dashed line
+C->>D: Open arrow
+D-->>A: Dashed open arrow
 ````
 ### plantuml
 
@@ -53,7 +86,7 @@ Class07 .. Class08
 Class09 -- Class10
 ````
 
-use class uml,if show ![QQ图片20171201234233]("/assets/QQ图片20171201234233.png")
+use class uml,if show error!
 
 please set graphviz
 
@@ -67,11 +100,10 @@ setx GRAPHVIZ_DOT "D:\software\graphviz-2.38\release\bin\dot.exe"
 ```
 
 ## 安装成功
-
 ```puml
 testdot
 ```
 
 `java -jar plantuml.jar -testdot`
 
-pip install graphviz
+> 可选 pip install graphviz

@@ -11,6 +11,8 @@ pages:
   - Atom: "tool/atom.md"
   - Sdkman: "tool/sdkman.md"
   - Graphviz: "tool/graphviz.md"
-
+- Daily:
+  - review2017: "daily/review2017.md"
+  - plan2018: "daily/plan2018.md"
 - 关于: "about.md"
 #theme: readthedocs
