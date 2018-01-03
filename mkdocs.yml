@@ -14,5 +14,7 @@ pages:
 - Daily:
   - review2017: "daily/review2017.md"
   - plan2018: "daily/plan2018.md"
+- Book:
+  - how_to_read_a_book: "book/how_to_read_a_book.md"
 - 关于: "about.md"
 #theme: readthedocs
