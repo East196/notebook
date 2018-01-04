@@ -16,5 +16,6 @@ pages:
   - plan2018: "daily/plan2018.md"
 - Book:
   - 如何阅读一本书: "book/how_to_read_a_book.md"
+  - 复盘: "book/fupan.md"
 - 关于: "about.md"
 #theme: readthedocs
