@@ -6,4 +6,6 @@
 ## 分析阅读
 ![分析](../assets/analysis_read.png)
 
+## 主题阅读
+![主题](../assets/theme_read.png)
 > By Xmind
