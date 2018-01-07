@@ -4,13 +4,13 @@ pages:
 - 提问的智慧: "study/how2ask.md"
 - Python:
   - Python: "python/python.md"
-  - Tkinter: "python/tkinter.md"
+  - PyGame: "python/pygame.md"
   - Virtualenv: "python/virtualenv.md"
   - Matplotlib: "python/matplotlib.md"
+  - Tensorflow: "python/tensorflow.md"
 - Tool:
   - Atom: "tool/atom.md"
   - Sdkman: "tool/sdkman.md"
-  - Graphviz: "tool/graphviz.md"
 - Daily:
   - review2017: "daily/review2017.md"
   - plan2018: "daily/plan2018.md"

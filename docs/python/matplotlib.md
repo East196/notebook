@@ -1,5 +1,10 @@
 # matplotlib
 
+## import
+```
+import matplotlib
+import matplotlib.pyplot as plt
+```
 
 ## in .py
 ```python

@@ -9,6 +9,9 @@ export_on_save:
 
 可用于atom和vscode
 
+## task
+- [ ] do it
+- [x] done it
 
 
 ## 文字
