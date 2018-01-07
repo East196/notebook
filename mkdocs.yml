@@ -11,6 +11,7 @@ pages:
 - Tool:
   - Atom: "tool/atom.md"
   - Sdkman: "tool/sdkman.md"
+  - Graphviz: "tool/graphviz_.md"
 - Daily:
   - review2017: "daily/review2017.md"
   - plan2018: "daily/plan2018.md"
