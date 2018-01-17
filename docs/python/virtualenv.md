@@ -29,6 +29,8 @@ deactivate
 
 ## anaconda
 conda的方式简单粗暴
+`conda create -n envname python=3.5.1`
+
 `conda -n envname install alib blib clib`
 
 ## pycharm

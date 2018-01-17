@@ -18,5 +18,7 @@ pages:
 - Book:
   - 如何阅读一本书: "book/how_to_read_a_book.md"
   - 复盘: "book/fupan.md"
+  - 极简主义: "book/极简主义.md"
+  - 解决问题最简单的方法: "book/解决问题最简单的方法.md"
 - 关于: "about.md"
 #theme: readthedocs

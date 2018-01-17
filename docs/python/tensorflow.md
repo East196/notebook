@@ -5,6 +5,7 @@ http://blog.csdn.net/u010099080/article/details/53418159
 
 cuda8.0 直接执行
 cudnnv7 bin+path
+注意要让环境变量生效
 pip install tensorflow-gpu
 
 # pip 中科大的源
