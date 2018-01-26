@@ -30,6 +30,6 @@ quiet=true #这个选项可以过滤掉一些无用的日志信息，若需要�
 port=27017 #端口号 默认为27017
 ```
 
-管理员身份运行
+管理员身份运行 可以在mongod.exe属性里直接设置
 `mongod.exe --config e:\appdata\mongodb\conf\mongodb.config --install --serviceName "MongoDB"`
 `net start MongoDB`
