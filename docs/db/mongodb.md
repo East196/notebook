@@ -1,4 +1,5 @@
 # mongodb
+port 27017
 
 ## ui
 官方有compass

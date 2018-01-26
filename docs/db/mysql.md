@@ -1,3 +1,5 @@
+# Mysql
+port 3306
 
 ## ui
 heidisql

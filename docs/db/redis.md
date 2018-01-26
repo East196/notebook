@@ -1,4 +1,6 @@
 # redis
+port 6379
+
 ## ui
 redisclient-win32.x86_64.2.0.jar
 
