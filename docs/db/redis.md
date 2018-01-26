@@ -1,4 +1,6 @@
 # redis
+## ui
+redisclient-win32.x86_64.2.0.jar
 
 ## windows下redis 开机自启动
 
