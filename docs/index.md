@@ -7,6 +7,8 @@
 
 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
+> 考虑写个中文格式化插件？
+
 
 ## Notes
 **2018年开始每天记一些感想**

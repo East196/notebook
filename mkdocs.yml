@@ -4,6 +4,7 @@ pages:
 - 提问的智慧: "study/how2ask.md"
 - Python:
   - Python: "python/python.md"
+  - Python编码模式: "python/python编码模式.md"
   - PyGame: "python/pygame.md"
   - Virtualenv: "python/virtualenv.md"
   - Matplotlib: "python/matplotlib.md"
@@ -22,5 +23,7 @@ pages:
   - 极简主义: "book/极简主义.md"
   - 解决问题最简单的方法: "book/解决问题最简单的方法.md"
   - 复盘: "book/fupan.md"
+- Fiction:
+  - 小说的骨架: "novel/小说的骨架.md"
 - 关于: "about.md"
-#theme: readthedocs
+theme: readthedocs
