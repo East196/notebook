@@ -1,3 +1,7 @@
+[TOC]
+
+# Python 编码模式
+
 ## 新建文件模板
 ```python
 #!/usr/bin/env python
