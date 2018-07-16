@@ -9,7 +9,10 @@ pages:
   - Virtualenv: "python/virtualenv.md"
   - Matplotlib: "python/matplotlib.md"
   - Tensorflow: "python/tensorflow.md"
+- KOL:
+  - 抖音: "kol/douyin.md"
 - Tool:
+  - MMD: "model/mmd.md"
   - Atom: "tool/atom.md"
   - Sdkman: "tool/sdkman.md"
   - Graphviz: "tool/graphviz_.md"
