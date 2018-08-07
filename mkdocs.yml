@@ -11,6 +11,7 @@ pages:
   - Tensorflow: "python/tensorflow.md"
 - KOL:
   - 抖音: "kol/douyin.md"
+  - 自明星就是超级IP秦刚: "kol/自明星就是超级IP秦刚.md"
 - Tool:
   - MMD: "model/mmd.md"
   - Atom: "tool/atom.md"
@@ -25,6 +26,7 @@ pages:
   - 简约之美: "book/简约之美.md"
   - 极简主义: "book/极简主义.md"
   - 解决问题最简单的方法: "book/解决问题最简单的方法.md"
+  - 有效管理的5大兵法: "book/有效管理的5大兵法.md"
   - 复盘: "book/fupan.md"
 - Fiction:
   - 小说的骨架: "novel/小说的骨架.md"
