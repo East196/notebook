@@ -98,8 +98,56 @@ mme路径必须全英文
 
 桌子加上表情就变成不同的桌子，长见识了！是mmd特有的么？
 
->刚好mmd基础看完了，观看骨骼和PE视频发现所有视频被杯具
->[可以继续看了](https://www.bilibili.com/video/av15484765/?p=16)
+PE(https://www.bilibili.com/video/av15484765/?p=16)
+
+
+
+
+
+## MMDLINKS 
+
+MMD739汉化版（天知道）：http://yun.baidu.com/s/1dDlL8bf
+MMD803（日文版）：http://pan.baidu.com/share/link?shareid=1035909574&uk=2066503225#path=%252F
+MMD926繁体汉化版：http://yunpan.cn/cFLp43aICQaAU  访问密码 ：7bac
+MME037（特效插件）：https://bowlroll.net/file/35012（32位）
+                                                https://bowlroll.net/file/35013（64位）
+百度MMD贴吧：http://tieba.baidu.com/f?kw=mikumikudance&ie=utf-8
+萌舞CML（MMD专区）：http://www.moeol.com/forum.php?gid=4
+萌葱窝（MMD专用素材区）：http://www.miku5.com/bbs126-1.html
+尼特部落（MMD模型场景等专用下载区）：http://geek.prdsarea.com/forum.php?mod=forumdisplay&fid=256
+BowlRoll：https://bowlroll.net/
+BowlRoll MMD专用搜索tag：https://bowlroll.net/file/tag/MikuMikuDance （精细的话可以在keyword里继续搜）
+*直接在bowlroll搜索MMD相关，括号里为可加可不加：模型是（MMD）モデル（配布/PMX）更加精确可以直接输入人物名字，动作请搜モーション（配布）、相机カメラ（モーション）、口型为リップ（モーション）*某一首歌的动作或口型、相机可以在前面加上歌的名字。小物件可以直接搜日语名字
+*NICO，YOUTUBE等国外的网站需要翻墙的话推荐webfreer翻墙浏览器
+下载：http://pan.baidu.com/s/1pJZkgVx 访问密码：pkjy
+N站（Niconico）：http://www.nicovideo.jp/?header
+Nico音频、背景素材：commons.nicovideo.jp/search/tag/フリー素材
+Nico  MMD替换服装配布专用页：http://seiga.nicovideo.jp/tag/MMD%E8%A1%A3%E8%A3%85%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A
+Nico MMD模型配布专用页：http://seiga.nicovideo.jp/tag/MMD%E3%83%A2%E3%83%87%E3%83%AB%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A 关键词：MMD衣装配布あり、MMD衣装(着せ替えモデル)
+Nico MMD场景配布专用页：http://seiga.nicovideo.jp/tag/MMD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A 关键词：MMDステージ配布あり
+Nico MMD物件配布专用页：http://seiga.nicovideo.jp/tag/MMD%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A 关键词：MMDアクセサリ配布あり （如果要具体的建议直接搜那个物件的日文）
+Nico MMD特效配布专用页：http://seiga.nicovideo.jp/tag/MME%E3%83%87%E3%83%BC%E3%82%BF%E9%85%8D%E5%B8%83%E3%81%82%E3%82%8A 关键词：MMEデータ配布あり
+D站（devaintart）：http://www.deviantart.com/browse/all/ MMD搜索关键词：模型（Model dl也可以在前面加上某一个式，例如TDA Model dl）、动作（Motion dl）、衣装（cloth, dress, skirt, underwear, shirt, pants…等部件的英文名+dl）、物件（accessory dl, book, hat, flower….等小物件的英文名+dl）、特效（mmd effect dl）
+MMD相关软件推荐：
+PMXEDITOR/PMDEDITOR：用于改模，绑骨等模型的修改更正*建议不会建模的可以试着改模这样能让角色换上喜欢的衣服（下载地址：http://pan.baidu.com/share/link?shareid=3835874348&uk=3642916180&app=zd）
+*PE加骨插件：http://1drv.ms/1hAXcox （找PMDE_Plugins文件夹里的SemiStandardBones）
+百度网盘：http://pan.baidu.com/share/link?shareid=2612898675&uk=3657550757&adapt=pc&fr=ftw#path=%252FUser
+Metaseq（水杉）：MMD相应/最适合的建模软件（其他建模类软件还有类似MAYA，3DMAX）
+（下载地址：http://pan.baidu.com/share/link?shareid=412549&uk=3021691317）
+狸窝视频转换器/格式工厂：用来转换视频，音频的模式，把MMD需要的音频转成WAV格式
+小丸工具箱：压制画质（不过UP本人不太用觉得狸窝转转格式就好了）
+Photoshop/SAI/美图秀秀：贴图处理，修改（PhotoShop下载地址：http://pan.baidu.com/s/19v46a）
+爱剪辑/会声会影/Vegas/Adobe Premiere Pro：剪辑拼接、后期处理、字幕制作
+（PR下载地址：http://pan.baidu.com/s/1o6txWSy）
+Adobe After Effects：后期特效+剪辑（*有AE用MMD插件可以把MMD文件导入AE，有兴趣可以自行研究）（下载地址：http://pan.baidu.com/s/1pJEuFA7）
+Adobe Audition：音频处理（下载地址：http://pan.baidu.com/s/1dDoqDxB）
+
+
+
+
+
+
+
 
 
 
