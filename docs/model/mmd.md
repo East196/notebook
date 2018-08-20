@@ -3,6 +3,7 @@ http://tieba.baidu.com/f?kw=mikumikudance&fr=ala0&tpl=5
 
 相关blog：
 http://bakakin.lofter.com/post/400994_6b051ca
+[MMD工坊](http://blog.sina.com.cn/s/blog_15fe57f4d0102xt4l.html)
 
 全白教程
 https://www.bilibili.com/video/av11218126
