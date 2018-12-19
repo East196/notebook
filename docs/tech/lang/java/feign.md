@@ -1,0 +1,1 @@
+[feign动态设置header](https://www.jianshu.com/p/4d3cede9bc88)
