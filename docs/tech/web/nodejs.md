@@ -2,6 +2,15 @@
 用中文网，英文官网有点慢
 http://nodejs.cn/download/
 
+cenos
+```bash
+# 更新nodejs源
+curl --silent --location https://rpm.nodesource.com/setup_10.x | bash -
+yum install -y nodejs
+npm config set registry https://registry.npm.taobao.org
+npm install -g yarn
+yarn config set registry http://registry.npm.taobao.org/
+```
 
 ## 升级
 ```
@@ -42,6 +51,7 @@ registry地址：http://r.cnpmjs.org/
 有很多方法来配置npm
 的registry地址，下面根据不同情境列出几种比较常用的方法。以淘宝npm
 
+## 升级
 镜像举例：
 1. 临时使用
 npm --registry https://registry.npm.taobao.org install express
@@ -55,6 +65,7 @@ npm config get registry
 yarn config set registry http://registry.npm.taobao.org/
 # 配置后可通过下面方式来验证是否成功
 yarn config get registry
+
 ```
 3. 通过cnpm
 使用
