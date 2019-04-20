@@ -40,4 +40,10 @@ mv frp_0.26.0_linux_amd64 frp
 cd frp
 nohup ./frps -c ./frps.ini &
 ```
+
+```shell
+cd frp
+./frpc -c ./frpc.ini
+```
 注意内网防火墙
+注意查看是否真的成功，有的时候可以打通但是显示错误
